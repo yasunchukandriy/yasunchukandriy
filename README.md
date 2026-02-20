@@ -11,8 +11,11 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:yasynchukandrii@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#a8d1c9dbd1c6cbc0ddc3c9c6ccdac1c1e8cfc5c9c1c486cbc7c5">
     <img src="https://img.shields.io/badge/Email-yasynchukandrii%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/andriy-yasunchuk-750028197/">
+    <img src="https://img.shields.io/badge/LinkedIn-andriy--yasunchuk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Deutsch-B2-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-B1-blue?style=for-the-badge" />
