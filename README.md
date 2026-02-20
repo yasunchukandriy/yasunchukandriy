@@ -91,8 +91,10 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasunchukandriy&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasunchukandriy&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yasunchukandriy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasunchukandriy&theme=github_dark" width="100%"/>
 </p>
 
 ---
