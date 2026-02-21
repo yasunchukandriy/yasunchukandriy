@@ -91,6 +91,14 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 ---
 
+## 🎓 Zertifikate / Certifications
+
+| Zertifikat | Aussteller | Datum | Link |
+|---|---|---|---|
+| Google Cloud Fundamentals: Core Infrastructure | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22476976) |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
