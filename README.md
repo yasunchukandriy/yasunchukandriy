@@ -95,6 +95,7 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 | Zertifikat | Aussteller | Datum | Link |
 |---|---|---|---|
+| Build Infrastructure with Terraform on Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22612305) |
 | Set Up an App Dev Environment on Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22605461) |
 | Implement DevOps Workflows in Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22532965) |
 | Manage Kubernetes in Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22519293) |
