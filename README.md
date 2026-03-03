@@ -95,6 +95,7 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 | Zertifikat | Aussteller | Datum | Link |
 |---|---|---|---|
+| Building with the Claude API | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/xjn2jnqh4asg) |
 | AI Fluency: Framework & Foundations | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/yhxkj3fjf8rd) |
 | Claude 101 | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/iefd35ryxdzd) |
 | Claude Code in Action | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/q5s44jshj5ef) |
