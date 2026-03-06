@@ -95,6 +95,7 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 | Zertifikat | Aussteller | Datum | Link |
 |---|---|---|---|
+| Claude with Amazon Bedrock | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/7v636tiy9jaw) |
 | Model Context Protocol: Advanced Topics | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/kfw4skwy77ub) |
 | AI Fluency for educators | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/874y8pqtz9e4) |
 | Introduction to Model Context Protocol | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/jc2e2hj5cwfx) |
