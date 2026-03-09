@@ -95,6 +95,7 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 | Zertifikat | Aussteller | Datum | Link |
 |---|---|---|---|
+| Teaching AI Fluency | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/yc58uis4nu8n) |
 | Claude with Google Cloud's Vertex AI | Anthropic | Mar 2026 | [🔗 Badge](https://verify.skilljar.com/c/3sguq2oh6y3v) |
 | Responsive Web Design | FreeCodeCamp | Mar 2026 | [🔗 Badge](https://freecodecamp.org/certification/fcc-1715a606-f411-4a0a-ab7c-ebc979a55fa7/responsive-web-design-v9) |
 | JavaScript | FreeCodeCamp | Mar 2026 | [🔗 Badge](https://freecodecamp.org/certification/fcc-1715a606-f411-4a0a-ab7c-ebc979a55fa7/javascript-v9) |
