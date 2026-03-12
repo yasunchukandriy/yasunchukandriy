@@ -95,6 +95,7 @@ Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrun
 
 | Zertifikat | Aussteller | Datum | Link |
 |---|---|---|---|
+| Introduction to agent skills | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/589vr4ydia72) |
 | AI Fluency for nonprofits | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/q8v3ehcupo5p) |
 | Teaching AI Fluency | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/yc58uis4nu8n) |
 | Claude with Google Cloud's Vertex AI | Anthropic | Mar 2026 | [🔗 Badge](https://verify.skilljar.com/c/3sguq2oh6y3v) |
