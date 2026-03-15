@@ -1,168 +1,106 @@
-<h1 align="center">👋 Hallo, ich bin Andrii Yasynchuk</h1>
+<h1 align="center">Andrii Yasynchuk</h1>
 <h3 align="center">Senior Full Stack Developer & Platform Architect</h3>
-<h4 align="center">📍 Bayern, Deutschland</h4>
 
 <p align="center">
-  <a href="#de">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
-  <a href="#en">🇬🇧 English</a> &nbsp;|&nbsp;
-  <a href="#ua">🇺🇦 Українська</a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="/cdn-cgi/l/email-protection#a8d1c9dbd1c6cbc0ddc3c9c6ccdac1c1e8cfc5c9c1c486cbc7c5">
-    <img src="https://img.shields.io/badge/Email-yasynchukandrii%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yasynchukandrii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yasynchukandrii-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/andriy-yasunchuk-750028197/">
-    <img src="https://img.shields.io/badge/LinkedIn-andriy--yasunchuk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-andrii--yasynchuk-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Deutsch-B2-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-B1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based_in-Bayern,_Deutschland-black?style=flat-square" />
 </p>
 
 ---
 
-## 🧑‍💻 Über mich
+11+ years building web applications, ERP systems, and microservice architectures. Currently focused on AI integration and platform engineering.
 
-Ich bin ein **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrung** in der Entwicklung moderner, skalierbarer Webanwendungen.
+Most recently **Platform Architect** at Autoteile plus GmbH — led development of [Partsbit.com](https://partsbit.com), built internal ERP modules, integrated payment and logistics APIs.
 
-- 🏢 Zuletzt als **Platform Architect** bei **Autoteile plus GmbH** (Deutschland) tätig
-- 🤖 Erfahrung mit **KI-Integration**, Microservice-Architekturen und ERP-Systemen
-- 📈 Leidenschaft für **algorithmisches Trading** und genetische Algorithmen
-- 👨‍👩‍👦 Teamleiter mit Erfahrung in der Führung von Entwicklerteams (bis zu 4 Personen)
-- 🇺🇦 Ukrainisch / 🇩🇪 Wohnhaft in Deutschland
+Open to **full-time or remote** positions in Germany.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+**Primary:** PHP 8.x, Symfony, Drupal, PostgreSQL, Vue.js, TypeScript, Docker
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Datenbanken & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apache&logoColor=white)
-![Varnish](https://img.shields.io/badge/Varnish-4B9FD5?style=flat-square&logo=varnish&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Also used in production:** Laravel, React, Python, NestJS, MySQL, Redis, Elasticsearch, Kafka, Kubernetes, AWS, Google Cloud
 
 ---
 
-## 🏆 Highlights
+## Featured Projects
 
-| Bereich | Details |
-|---|---|
-| 🏗️ Architektur | Microservice-Architekturen, ERP-Systeme, MLM-Plattformen |
-| 🤖 KI/ML | Eigene Modelle trainiert & in Produktionssysteme integriert |
-| 📊 E-Commerce | Leitung von [Partsbit.com](https://partsbit.com) |
-| 🔐 Security | OWASP, JWT, OAuth 2.0, OpenID Connect |
-| ⚡ Performance | Varnish, Redis, Elasticsearch, Query-Optimierung |
-| 💱 APIs | Payment (PayPal, Braintree), Crypto (Binance, Bitmex), Social (FB, Telegram) |
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [ai-code-review-action](https://github.com/yasunchukandriy/ai-code-review-action) | TypeScript, Claude API, GitHub Actions | Automated PR review with inline comments and quality scoring. 99 tests, CI/CD. |
+| [ecom-pos-summary](https://github.com/yasunchukandriy/ecom-pos-summary) | Symfony 7.2, PostgreSQL, Docker | REST API for aggregating e-commerce revenue across points of sale. PHPStan, PHPUnit. |
+| [zadarma_api](https://github.com/yasunchukandriy/zadarma_api) | Drupal 9-11, Vue.js, PHP | Callback API integration module with phone validation via libphonenumber. |
 
 ---
 
-## 🎓 Zertifikate / Certifications
+## Certifications
 
-| Zertifikat | Aussteller | Datum | Link |
-|---|---|---|---|
-| Python | FreeCodeCamp | Mar 2026 | [🔗 Badge](https://freecodecamp.org/certification/yasynchuk-andrii/python-v9) |
-| Introduction to agent skills | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/589vr4ydia72) |
-| AI Fluency for nonprofits | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/q8v3ehcupo5p) |
-| Teaching AI Fluency | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/yc58uis4nu8n) |
-| Claude with Google Cloud's Vertex AI | Anthropic | Mar 2026 | [🔗 Badge](https://verify.skilljar.com/c/3sguq2oh6y3v) |
-| Responsive Web Design | FreeCodeCamp | Mar 2026 | [🔗 Badge](https://freecodecamp.org/certification/yasynchuk-andrii/responsive-web-design-v9) |
-| JavaScript | FreeCodeCamp | Mar 2026 | [🔗 Badge](https://freecodecamp.org/certification/yasynchuk-andrii/javascript-v9) |
-| Claude with Amazon Bedrock | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/7v636tiy9jaw) |
-| Model Context Protocol: Advanced Topics | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/kfw4skwy77ub) |
-| AI Fluency for educators | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/874y8pqtz9e4) |
-| Introduction to Model Context Protocol | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/jc2e2hj5cwfx) |
-| Building with the Claude API | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/xjn2jnqh4asg) |
-| AI Fluency: Framework & Foundations | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/yhxkj3fjf8rd) |
-| Claude 101 | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/iefd35ryxdzd) |
-| Claude Code in Action | Anthropic | Mar 2026 | [🔗 Badge](http://verify.skilljar.com/c/q5s44jshj5ef) |
-| Build a Data Mesh with Dataplex | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22618706) |
-| Develop Serverless Apps with Firebase | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22614772) |
-| Build Infrastructure with Terraform on Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22612305) |
-| Set Up an App Dev Environment on Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22605461) |
-| Implement DevOps Workflows in Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22532965) |
-| Manage Kubernetes in Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22519293) |
-| Deploy Kubernetes Applications on Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22502622) |
-| Kubernetes in Google Cloud | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22490454) |
-| Getting Started with Google Kubernetes Engine | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22485510) |
-| Google Cloud Fundamentals: Core Infrastructure | Google Cloud | Feb 2026 | [🔗 Badge](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22476976) |
+<details>
+<summary><strong>Anthropic (Claude AI)</strong> — 12 certifications</summary>
+
+| Certificate | Link |
+|-------------|------|
+| Introduction to Agent Skills | [Verify](http://verify.skilljar.com/c/589vr4ydia72) |
+| AI Fluency for nonprofits | [Verify](http://verify.skilljar.com/c/q8v3ehcupo5p) |
+| Teaching AI Fluency | [Verify](http://verify.skilljar.com/c/yc58uis4nu8n) |
+| Claude with Google Cloud's Vertex AI | [Verify](https://verify.skilljar.com/c/3sguq2oh6y3v) |
+| Claude with Amazon Bedrock | [Verify](http://verify.skilljar.com/c/7v636tiy9jaw) |
+| Model Context Protocol: Advanced Topics | [Verify](http://verify.skilljar.com/c/kfw4skwy77ub) |
+| AI Fluency for Educators | [Verify](http://verify.skilljar.com/c/874y8pqtz9e4) |
+| Introduction to Model Context Protocol | [Verify](http://verify.skilljar.com/c/jc2e2hj5cwfx) |
+| Building with the Claude API | [Verify](http://verify.skilljar.com/c/xjn2jnqh4asg) |
+| AI Fluency: Framework & Foundations | [Verify](http://verify.skilljar.com/c/yhxkj3fjf8rd) |
+| Claude 101 | [Verify](http://verify.skilljar.com/c/iefd35ryxdzd) |
+| Claude Code in Action | [Verify](http://verify.skilljar.com/c/q5s44jshj5ef) |
+
+</details>
+
+<details>
+<summary><strong>Google Cloud</strong> — 10 certifications</summary>
+
+| Certificate | Link |
+|-------------|------|
+| Build a Data Mesh with Dataplex | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22618706) |
+| Develop Serverless Apps with Firebase | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22614772) |
+| Build Infrastructure with Terraform on Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22612305) |
+| Set Up an App Dev Environment on Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22605461) |
+| Implement DevOps Workflows in Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22532965) |
+| Manage Kubernetes in Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22519293) |
+| Deploy Kubernetes Applications on Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22502622) |
+| Kubernetes in Google Cloud | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22490454) |
+| Getting Started with Google Kubernetes Engine | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22485510) |
+| Google Cloud Fundamentals: Core Infrastructure | [Verify](https://www.skills.google/public_profiles/2068c184-a0eb-465c-a974-82b887156c64/badges/22476976) |
+
+</details>
+
+<details>
+<summary><strong>FreeCodeCamp</strong> — 3 certifications</summary>
+
+| Certificate | Link |
+|-------------|------|
+| JavaScript Algorithms and Data Structures | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/javascript-v9) |
+| Scientific Computing with Python | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/python-v9) |
+| Responsive Web Design | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/responsive-web-design-v9) |
+
+</details>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasunchukandriy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasunchukandriy&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yasunchukandriy&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasunchukandriy&theme=github_dark" width="100%"/>
-</p>
-
----
-
-## 📫 Kontakt
-
-Ich bin offen für neue **Vollzeit- oder Remote-Stellen** in Deutschland.
-
-📧 **yasynchukandrii@gmail.com**
-📍 **Bayern, Deutschland**
 
 ---
 
 <p align="center">
-  <i>„Code ist wie Humor – wenn man ihn erklären muss, ist er schlecht."</i>
+  <strong>Languages:</strong> Ukrainian (native) · German (B2) · English (B1)
 </p>
-
----
-
-<a name="de"></a>
-## 🇩🇪 Deutsch
-
-Ich bin ein erfahrener **Senior Full Stack Developer** mit über **11 Jahren Berufserfahrung** in Deutschland. Ich entwickle skalierbare Webanwendungen, ERP-Systeme und KI-gestützte Plattformen. Ich arbeite selbstständig, lösungsorientiert und bin teamfähig. Aktuell suche ich eine neue Herausforderung in Vollzeit oder Remote in Deutschland.
-
----
-
-<a name="en"></a>
-## 🇬🇧 English
-
-I'm a **Senior Full Stack Developer & Platform Architect** with 11+ years of professional experience building scalable web applications, ERP systems, microservice architectures and AI-powered solutions. Based in Bavaria, Germany — open to full-time or remote positions across Europe.
-
----
-
-<a name="ua"></a>
-## 🇺🇦 Українська
-
-Я **Senior Full Stack Developer** з понад **11 роками досвіду** у розробці сучасних веб-додатків, ERP-систем, мікросервісних архітектур та AI-рішень. Проживаю в Баварії, Німеччина. Відкритий до нових можливостей — повна зайнятість або віддалена робота.
