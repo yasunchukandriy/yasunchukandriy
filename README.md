@@ -33,6 +33,7 @@ Open to **full-time or remote** positions in Germany.
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
+| [mcp-db-explore](https://github.com/yasunchukandriy/mcp-db-explore) | Python, MCP, Claude API, PostgreSQL, Docker | MCP server for natural language database exploration. 100 tests, 95% coverage, CI/CD. |
 | [ai-code-review-action](https://github.com/yasunchukandriy/ai-code-review-action) | TypeScript, Claude API, GitHub Actions | Automated PR review with inline comments and quality scoring. 99 tests, CI/CD. |
 | [ecom-pos-summary](https://github.com/yasunchukandriy/ecom-pos-summary) | Symfony 7.2, PostgreSQL, Docker | REST API for aggregating e-commerce revenue across points of sale. PHPStan, PHPUnit. |
 | [zadarma_api](https://github.com/yasunchukandriy/zadarma_api) | Drupal 9-11, Vue.js, PHP | Callback API integration module with phone validation via libphonenumber. |
