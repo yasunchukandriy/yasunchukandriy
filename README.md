@@ -82,10 +82,11 @@ Open to **full-time or remote** positions in Germany.
 </details>
 
 <details>
-<summary><strong>FreeCodeCamp</strong> — 3 certifications</summary>
+<summary><strong>FreeCodeCamp</strong> — 4 certifications</summary>
 
 | Certificate | Link |
 |-------------|------|
+| Relational Database | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/relational-databases-v9) |
 | JavaScript Algorithms and Data Structures | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/javascript-v9) |
 | Scientific Computing with Python | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/python-v9) |
 | Responsive Web Design | [Verify](https://freecodecamp.org/certification/yasynchuk-andrii/responsive-web-design-v9) |
