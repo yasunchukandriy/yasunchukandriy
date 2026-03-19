@@ -33,6 +33,7 @@ Open to **full-time or remote** positions in Germany.
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
+| [ai-price-monitor](https://github.com/yasunchukandriy/ai-price-monitor) | Python, Playwright, PostgreSQL, Claude API, Telegram, Docker | AI-powered competitor price monitoring with scraping, change detection, and daily AI reports. 135 tests, 99% coverage, CI/CD. |
 | [mcp-db-explore](https://github.com/yasunchukandriy/mcp-db-explore) | Python, MCP, Claude API, PostgreSQL, Docker | MCP server for natural language database exploration. 100 tests, 95% coverage, CI/CD. |
 | [ai-code-review-action](https://github.com/yasunchukandriy/ai-code-review-action) | TypeScript, Claude API, GitHub Actions | Automated PR review with inline comments and quality scoring. 99 tests, CI/CD. |
 | [ecom-pos-summary](https://github.com/yasunchukandriy/ecom-pos-summary) | Symfony 7.2, PostgreSQL, Docker | REST API for aggregating e-commerce revenue across points of sale. PHPStan, PHPUnit. |
