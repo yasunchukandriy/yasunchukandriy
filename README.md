@@ -44,10 +44,11 @@ Open to **full-time or remote** positions in Germany.
 ## Certifications
 
 <details>
-<summary><strong>Anthropic (Claude AI)</strong> — 12 certifications</summary>
+<summary><strong>Anthropic (Claude AI)</strong> — 13 certifications</summary>
 
 | Certificate | Link |
 |-------------|------|
+| Introduction to subagents | [Verify](http://verify.skilljar.com/c/eo3deim6kqog) |
 | Introduction to Agent Skills | [Verify](http://verify.skilljar.com/c/589vr4ydia72) |
 | AI Fluency for nonprofits | [Verify](http://verify.skilljar.com/c/q8v3ehcupo5p) |
 | Teaching AI Fluency | [Verify](http://verify.skilljar.com/c/yc58uis4nu8n) |
