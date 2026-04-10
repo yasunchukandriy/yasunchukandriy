@@ -44,10 +44,11 @@ Open to **full-time or remote** positions in Germany.
 ## Certifications
 
 <details>
-<summary><strong>Anthropic (Claude AI)</strong> — 15 certifications</summary>
+<summary><strong>Anthropic (Claude AI)</strong> — 16 certifications</summary>
 
 | Certificate | Link |
 |-------------|------|
+| Claude Code 101 | [Verify](https://verify.skilljar.com/c/s5dux2pm5rpa) |
 | Introduction to Claude Cowork | [Verify](https://verify.skilljar.com/c/wj6a9ubptcwy) |
 | AI Capabilities and Limitations | [Verify](http://verify.skilljar.com/c/dgdqwbxsxnw8) |
 | Introduction to subagents | [Verify](http://verify.skilljar.com/c/eo3deim6kqog) |
